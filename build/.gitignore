@@ -1,3 +1,4 @@
+# Windows:
 ALL_BUILD.vcxproj
 ALL_BUILD.vcxproj.filters
 ZERO_CHECK.vcxproj
@@ -5,3 +6,5 @@ ZERO_CHECK.vcxproj.filters
 wave.sln
 wave.vcxproj
 wave.vcxproj.filters
+# Linux:
+wave
